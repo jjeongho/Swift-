@@ -1,2 +1,1 @@
-# Swift Algorithm
-swift
+# Memento
